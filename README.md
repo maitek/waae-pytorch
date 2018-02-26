@@ -4,11 +4,12 @@ This is a Pytorch implementation of an Adversarial Autoencoder (https://arxiv.or
 
 The Encoder and Decoder uses an architecture similar to DCGAN (https://arxiv.org/abs/1511.06434)
 
-## Reconstructed:
+## Reconstructed images:
 ![alt text](https://raw.githubusercontent.com/maitek/waae-pytorch/master/results/reconstruction.png)
 
-## Generated images by sampling from embedding:
+## Generated images:
 ![alt text](https://raw.githubusercontent.com/maitek/waae-pytorch/master/results/generated.png)
 
 Special thanks to wiseodd for his educational generative model repository:
+
 https://github.com/wiseodd/generative-models
